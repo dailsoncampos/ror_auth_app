@@ -6,7 +6,7 @@ services:
       args:
         RUBY_VERSION: ${RUBY_VERSION}
     ports:
-      - "3000:3000"
+      - "5000:3000"
     volumes:
       - ".:/workspace"
     env_file:
