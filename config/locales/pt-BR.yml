@@ -49,6 +49,8 @@ pt-BR:
           other: Exibindo <b>%{count}</b> %{entry_name}
           zero: Nenhum %{entry_name} encontrado
   views:
+    application:
+      name: "Aplicação Teste"
     pagination:
       first: "&laquo; Primeiro"
       last: "Último &raquo;"
